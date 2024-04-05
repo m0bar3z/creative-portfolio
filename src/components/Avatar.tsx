@@ -70,7 +70,7 @@ const Avatar: FC<AvatarPropsType> = ({ src, className }) => {
       };
     });
 
-    return () => ctx.clear();
+    return () => ctx.revert();
   }, []);
 
   return (
