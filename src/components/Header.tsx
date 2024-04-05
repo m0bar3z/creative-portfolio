@@ -10,9 +10,11 @@ export default async function Header() {
               Ali Mobarezi
             </Link>
           </li>
-          <li>item1</li>
-          <li>item2</li>
-          <li>item3</li>
+          <li>
+            <Link href="about" aria-label="About Page">
+              About
+            </Link>
+          </li>
         </ul>
       </nav>
     </header>
