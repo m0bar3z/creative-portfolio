@@ -10,7 +10,7 @@ import { type ContentType } from "@/types/cutsomTypes";
 gsap.registerPlugin(ScrollTrigger);
 
 interface ContentListPropsType {
-  isBlog: boolean;
+  isBlog?: boolean;
   contents: ContentType[];
 }
 

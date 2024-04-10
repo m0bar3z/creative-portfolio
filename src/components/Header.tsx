@@ -20,6 +20,11 @@ export default async function Header() {
               Blog
             </Link>
           </li>
+          <li>
+            <Link href="projects" aria-label="Projects Page">
+              Projects
+            </Link>
+          </li>
         </ul>
       </nav>
     </header>
