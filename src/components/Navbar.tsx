@@ -139,7 +139,7 @@ function DesktopMenu({ settings, pathname }: { settings: unknown; pathname: stri
         </React.Fragment>
       ))}
       <li>
-        <Button linkField={"cta link"} label={"cta label"} className="ml-3" />
+        <Button linkField={"/"} label={"Contact"} className="ml-3" />
       </li>
     </div>
   );
