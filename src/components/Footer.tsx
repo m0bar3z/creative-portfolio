@@ -24,7 +24,7 @@ export default async function Footer() {
             href="/"
             className="text-xl font-extrabold tracking-tighter text-slate-100 transition-colors duration-150 hover:text-yellow-400"
           >
-            Ali Mobarezi
+            Carl Dotson
           </Link>
           <span
             className="hidden text-5xl font-extralight leading-[0] text-slate-400 sm:inline"
@@ -32,7 +32,7 @@ export default async function Footer() {
           >
             /
           </span>
-          <p className=" text-sm text-slate-300 ">© {new Date().getFullYear()} Ali Mobarezi</p>
+          <p className=" text-sm text-slate-300 ">© {new Date().getFullYear()} Carl Dotson</p>
         </div>
         <nav className="navigation" aria-label="Footer Navigation">
           <ul className="flex items-center gap-1">
@@ -65,7 +65,7 @@ export default async function Footer() {
             <Link
               href="https://www.github.com"
               className="p-2 text-2xl text-slate-300 transition-all duration-150 hover:scale-125 hover:text-yellow-400"
-              aria-label="Ali Mobarezi on GitHub"
+              aria-label="Carl Dotson on GitHub"
             >
               <FaGithub />
             </Link>
@@ -74,7 +74,7 @@ export default async function Footer() {
           <Link
             href="https://x.com"
             className="p-2 text-2xl text-slate-300 transition-all duration-150 hover:scale-125 hover:text-yellow-400"
-            aria-label={"Ali Mobarezi on Twitter"}
+            aria-label={"Carl Dotson on Twitter"}
           >
             <FaTwitter />
           </Link>
@@ -82,7 +82,7 @@ export default async function Footer() {
           <Link
             href="https://linkedin.com"
             className="p-2 text-2xl text-slate-300 transition-all duration-150 hover:scale-125 hover:text-yellow-400"
-            aria-label={"Ali Mobarezi on LinkedIn"}
+            aria-label={"Carl Dotson on LinkedIn"}
           >
             <FaLinkedin />
           </Link>

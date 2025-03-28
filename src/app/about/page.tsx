@@ -12,10 +12,10 @@ const Page: FC = () => {
       <Bounded>
         <div className="md:grid-cols-[2fr, 1fr] grid gap-x-8 gap-y-6">
           <Heading as="h1" size="xl" className="col-start-1">
-            About Ali
+            About Carl
           </Heading>
           <div className="prose prose-xl prose-slate prose-invert col-start-1">
-            Hey, I’m Ali! Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam natus
+            Hey, I’m Carl! Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam natus
             impedit quis aut. Voluptates eaque quibusdam veritatis tempore sed magnam, accusamus
             harum quaerat libero deserunt,
             <br />

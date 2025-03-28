@@ -7,8 +7,8 @@ import Bounded from "@/components/Bounded";
 import Shapes from "./Shapes.jsx";
 
 const content = {
-  firstname: "Ali",
-  lastname: "Mobarezi",
+  firstname: "Carl",
+  lastname: "Dotson",
   tagLine: "Creative developer",
 };
 
